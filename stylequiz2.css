@@ -1,0 +1,22 @@
+body{
+	background-image: url(https://i0.wp.com/halcyonrealms.com/blogpics/atsvisdev.jpg?resize=750%2C500&ssl=1);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+label{
+	margin-right: 100px;
+	margin-left: 100px;
+	font-weight: bold;
+}
+
+textarea{
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+select{
+	margin-right: 100px;
+	margin-left: 100px;
+}
